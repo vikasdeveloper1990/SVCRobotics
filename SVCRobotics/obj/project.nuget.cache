@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vVRrDF1tfHWeP46Bo6A9NZhJj3Rl55FR+6hmIemlj869SE5pi8ek363v3zzwmPJbU/Cs9+teKvpw6kvuRiANLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vlingam\\Documents\\LCE_Code\\Vikas Sample Projects\\SVCRobotics\\SVCRobotics\\SVCRobotics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vlingam$$\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vlingam$$\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
